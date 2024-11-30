@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
   - Mobile Development: `Flutter`  
   - And, of course, dogs 🐕!
 - 📫 **How to Reach Me:** Feel free to drop me a line at **[mjmon1995@gmail.com](mailto:mjmon1995@gmail.com)**.
-- 💼 **Portfolio:** Check out my work at [**jmonsta.com**](https://www.jmonsta.com).
+- 💼 **Portfolio:** Check out my work at [**jmonsta.com**]([https://www.jmonsta.com](https://www.jmonsta.com/portfolio)).
 - ⚡ **Fun Facts:**  
   - I’m into the **carnivore diet** 🍖 and love practicing **calisthenics** 💪🏼.
 
