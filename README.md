@@ -1,12 +1,19 @@
-### Hi there, James here👋✨
+# 👋 Hi there, I'm James! ✨
 
-- 🔭 I’m currently working on `NextJS` SaaS projects...
-- 🌱 I’m currently learning `AWS Services`, `Typescript`, `PostGres`...
-- 💬 Ask me about `React`, `NextJS`, `Flutter`, `Firebase` and dogs🐕...
-- 📫 How to reach me: `mjmon1995@gmail.com`...
-- 💼 [See My Portfolio](www.jmonsta.com)
--  ⚡ Fun fact:  ... I do carnivore diet🍖  and calisthenics💪🏼 ...
+Welcome to my GitHub profile! Here’s a bit about me:
 
+- 🔭 **Currently Working On:** Building SaaS projects with `Next.js`.
+- 🌱 **Currently Learning:** Exploring `AWS Services`, diving deeper into `TypeScript`, and mastering `PostgreSQL`.
+- 💬 **Ask Me About:**  
+  - Web Development: `React`, `Next.js`, `Firebase`  
+  - Mobile Development: `Flutter`  
+  - And, of course, dogs 🐕!
+- 📫 **How to Reach Me:** Feel free to drop me a line at **[mjmon1995@gmail.com](mailto:mjmon1995@gmail.com)**.
+- 💼 **Portfolio:** Check out my work at [**jmonsta.com**](https://www.jmonsta.com).
+- ⚡ **Fun Facts:**  
+  - I’m into the **carnivore diet** 🍖 and love practicing **calisthenics** 💪🏼.
+
+---
 
 ![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=mjmon&show_icons=true&theme=gruvbox)
 
