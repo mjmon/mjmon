@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! Here’s a bit about me:
 
 - 🔭 **Currently Working On:** Building SaaS projects with `Next.js`.
-- 🌱 **Currently Learning:** Exploring `AWS Services`, diving deeper into `TypeScript`, and mastering `PostgreSQL`.
+- 🌱 **Currently Learning:** Exploring `LLMs`, diving deeper into `NextJS`, and mastering `Reactjs and Typescript`.
 - 💬 **Ask Me About:**  
   - Web Development: `React`, `Next.js`, `Firebase`  
-  - Mobile Development: `Flutter`  
+  - Mobile Development: `ReactNative`, `Flutter`  
   - And, of course, dogs 🐕!
 - 📫 **How to Reach Me:** Feel free to drop me a line at **[mjmon1995@gmail.com](mailto:mjmon1995@gmail.com)**.
 - 💼 **Portfolio:** Check out my work at [works](https://www.jmonsta.com/portfolio).
