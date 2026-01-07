@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here’s a bit about me:
 
 - 🔭 **Currently Working On:** Building SaaS projects with `Next.js`.
-- 🌱 **Currently Learning:** Exploring `LLMs` and `Python`, diving deeper into `NextJS`, and mastering `Reactjs and Typescript`.
+- 🌱 **Currently Learning:** Exploring `AWS Services` and `TanStack`, diving deeper into `NextJS`, and mastering `Reactjs and Typescript`.
 - 💬 **Ask Me About:**  
   - Web Development: `React`, `Next.js`, `Firebase`  
   - Mobile Development: `ReactNative`, `Flutter`  
